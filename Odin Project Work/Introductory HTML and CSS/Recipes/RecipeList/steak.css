@@ -10,3 +10,7 @@ img {
     height: 300;
     width: auto;
 }
+
+a {
+    text-decoration: none;
+}
