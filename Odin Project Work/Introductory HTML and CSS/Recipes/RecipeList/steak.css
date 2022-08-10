@@ -1,0 +1,12 @@
+body {
+    background-color: antiquewhite;
+}
+
+#title {
+    text-align: center;
+}
+
+img {
+    height: 300;
+    width: auto;
+}
