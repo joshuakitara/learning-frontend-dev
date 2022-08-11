@@ -1,0 +1,47 @@
+.first-third {
+    background: #1F2937;
+    color: aliceblue;
+    padding: 30px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.header-logo {
+    width: 200px;
+}
+
+.header-links {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 25px;
+    gap: 35px;
+    font-size: 20px;
+}
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.about-text {
+    width: 400px;
+}
+.pokemon-cards {
+    width: 400px;
+}
+
+.sign-up {
+    background-color: #3882F6;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 25px;
+    color: aliceblue;
+    font-size: 14px;
+}
