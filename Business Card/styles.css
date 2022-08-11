@@ -1,0 +1,30 @@
+.container {
+    width: 500px;
+    height: auto;
+    background: skyblue;
+    padding: 15px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+    border-bottom: 5px solid blueviolet;
+}
+
+.profile-pic {
+    display:block;
+    width: 200px;
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 100px;
+}
+
+.info {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+}
