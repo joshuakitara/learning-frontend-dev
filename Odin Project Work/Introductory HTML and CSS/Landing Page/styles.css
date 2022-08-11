@@ -3,6 +3,11 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+a {
+    text-decoration: none;
+    color:aliceblue;
+}
+
 .intro-section {
     background: #1F2937;
     color: aliceblue;
