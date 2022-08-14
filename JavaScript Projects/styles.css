@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    color: white;
+    padding: 30px 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.green-text {
+    color: #4ADF86;
+    display:flex;
+}
+
+p {
+    font-size: 18px;
+}
+
+.btn {
+    background: #4ADF86;
+    color: #1F2937;
+    padding: 10px 10px;
+    margin: 20px 0;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+}
+
+.line {
+    border: 1px solid #273549;
+        margin-bottom: 20px;
+}
+
+.generated {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.password-box {
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+#one,
+#two {
+    color: #4ADF86;
+    background: #273549;
+    border-radius: 15px;
+    padding: 15px;
+    color: #4ADF86;
+    border: none;
+}
+
+label {
+    color: aliceblue;
+}
